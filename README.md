@@ -1,7 +1,7 @@
 # Titanic Survival Rate Prediction Using Machine Learning
 
-**Onur Akin Sir**
-w: https://onurakinsir.com/
+**Onur Akin Sir** <br>
+w: https://onurakinsir.com/ <br>
 m: onurakinsir@gmail.com
 
 Prediction of casualty/survival rates of the Titanic incident using passenger dataset with the help of supervised/unsupervised learning models such as Logistic Regression, Tree Model, Neural Network, and Ensemble Methods. Finally, we benefitted from Validation and Cross-Validation.
